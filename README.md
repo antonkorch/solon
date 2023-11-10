@@ -114,4 +114,4 @@ it would be great if the veranda was divided into three zones:
 - Electical wires in bathrooms
 
 ## Pictures with ideas
-Can be found [here](/pic)
+Can be found [here](http://antonk.space/solon/pic)
