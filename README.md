@@ -91,10 +91,10 @@ it would be great if the veranda was divided into three zones:
 
 ## Swimming pool
 
-### Place for pool and tech equipment
+- Place for pool and tech equipment
 
 
-### Outdoor toilet and small shower, changing room.
+- Outdoor toilet and small shower, changing room.
 
 ## Engineering
 
