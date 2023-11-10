@@ -112,6 +112,7 @@ it would be great if the veranda was divided into three zones:
 
 - For discussion: outside window blinds -- what options do we have?
 - Electical wires in bathrooms
+- Input and output ventilation tubes with main air exit on top of the roof
 
 ## Pictures with ideas
 Can be found [here](http://antonk.space/solon/pic)
